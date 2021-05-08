@@ -1,3 +1,6 @@
 this is fd1 file
 
 new line to file
+
+devops introduction 
+git - github exaplaination
